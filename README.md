@@ -1,6 +1,6 @@
-# run storybook project
+# Run Storybook Project
 
-use mpm run storybook for this project
+ ### `npm run storybook`
 
 # Getting Started with Create React App
 
