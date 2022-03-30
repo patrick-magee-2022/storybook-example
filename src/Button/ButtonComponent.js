@@ -13,7 +13,7 @@ export const ButtonComponent = ({ size, label}) => {
 
 ButtonComponent.propTypes = {
  
-  size: PropTypes.string,
+  size: PropTypes.oneOf(['sm', 'md', 'lg']),
 
   label: PropTypes.string,
  
